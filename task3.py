@@ -2,7 +2,8 @@
 Create the classic "Rock, Paper Scissors Game".  It will keep playing until someone wins.
 (5 points)
 Extension:
-Play the classic "Rock Paper Scissors Lizard Spock" game'''
+Play the classic "Rock Paper Scissors Lizard Spock" game
+'''
 '''
 scissors > paper
 paper > rock
